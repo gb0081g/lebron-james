@@ -1,7 +1,7 @@
-🏀 Homenagem a LeBron James 👑
+#Homenagem a LeBron James 
 
 Este é um projeto simples em HTML e CSS que presta homenagem a um dos maiores jogadores de basquete da história: LeBron James.
-📂 Estrutura dos Arquivos
+ Estrutura dos Arquivos
 
     index.html
     Página principal que contém o conteúdo da homenagem, incluindo texto e imagens de LeBron James.
@@ -18,7 +18,7 @@ Este é um projeto simples em HTML e CSS que presta homenagem a um dos maiores j
 
         k3XbpW2k.jpg
 
-📸 Imagens
+ Imagens
 
 As imagens devem ser colocadas em uma pasta chamada img/ para que sejam corretamente exibidas na página. Exemplo de estrutura:
 
@@ -30,11 +30,11 @@ As imagens devem ser colocadas em uma pasta chamada img/ para que sejam corretam
     ├── jk-0_U2x.jpg
     └── k3XbpW2k.jpg
 
-💬 Frase em destaque
+ Frase em destaque
 
     "Strive for greatness." — LeBron James
 
-🧑‍💻 Autor
+ Autor
 
 Desenvolvido por Gabriel Brayan.
 © Todos os direitos reservados.
